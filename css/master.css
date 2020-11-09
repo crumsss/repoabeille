@@ -35,7 +35,6 @@ article {
 }
 
 nav li {
-  color: #CD853F;
   display: inline-block;
   padding:10px;
 
@@ -118,12 +117,6 @@ nav a:hover{
   height: auto;
 }
 
-.image_end:hover{
-  font-size: 1.5em;
-  opacity: 1;
-  transition: all 1s ease-in;
-  transform: rotate(360deg);
-}
 
 p{
   margin-left: 100px;
